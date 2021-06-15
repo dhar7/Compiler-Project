@@ -13,3 +13,5 @@ This is a compiler made by using Flex and Bison
 • Switch case
 • Built-in functions for more flexibility
 • Error handling reports for undeclared variables
+
+A sample Input file is given to instruct how to write diffrent commands 
