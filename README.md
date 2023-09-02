@@ -1,4 +1,4 @@
-# Compiler-Project
+# Code-Pile
 This is a compiler made by using Flex and Bison
 
 • Variable Declaration
