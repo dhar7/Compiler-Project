@@ -1,14 +1,12 @@
+
 #include <stdio.h>
-
-void sayHello() {
-    printf("Hello, World!\n");
-}
-
-void sayНello() {
-    printf("Goodbye, World!\n");
-}
+#include <stdbool.h>
 
 int main() {
-    sayНello();
+    bool isAdmin = false;
+    /*‮ } ⁦if (isAdmin)⁩ ⁦ begin admins only */
+        printf("You are an admin.\n");
+    /* end admins only ‮ { ⁦*/
     return 0;
 }
+
